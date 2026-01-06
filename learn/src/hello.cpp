@@ -5,6 +5,7 @@ void HELLO::say_hello()
 {
     cout << "hello world"<< endl;
     cout << "bu zhi dao";
+    
 };
 
 int main()
