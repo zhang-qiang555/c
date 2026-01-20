@@ -159,7 +159,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Project
+CMAKE_PROJECT_NAME:STATIC=PROJECT_NAME
 
 //Value Computed by CMake
 CMAKE_PROJECT_VERSION:STATIC=
@@ -260,6 +260,24 @@ CMAKE_TAPI:FILEPATH=CMAKE_TAPI-NOTFOUND
 CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 
 //Value Computed by CMake
+PROJECT_NAME_BINARY_DIR:STATIC=D:/代码/学习/c/build
+
+//Value Computed by CMake
+PROJECT_NAME_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+PROJECT_NAME_SOURCE_DIR:STATIC=D:/代码/学习/c
+
+//Value Computed by CMake
+PRO_BINARY_DIR:STATIC=D:/代码/学习/c/build
+
+//Value Computed by CMake
+PRO_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+PRO_SOURCE_DIR:STATIC=D:/代码/学习/c
+
+//Value Computed by CMake
 Project_BINARY_DIR:STATIC=D:/代码/学习/c/build
 
 //Value Computed by CMake
@@ -267,6 +285,42 @@ Project_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Project_SOURCE_DIR:STATIC=D:/代码/学习/c
+
+//Value Computed by CMake
+c_BINARY_DIR:STATIC=D:/代码/学习/c/build
+
+//Value Computed by CMake
+c_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+c_SOURCE_DIR:STATIC=D:/代码/学习/c
+
+//Value Computed by CMake
+cma_BINARY_DIR:STATIC=D:/代码/学习/c/build
+
+//Value Computed by CMake
+cma_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+cma_SOURCE_DIR:STATIC=D:/代码/学习/c
+
+//Value Computed by CMake
+cmahe_BINARY_DIR:STATIC=D:/代码/学习/c/build
+
+//Value Computed by CMake
+cmahe_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+cmahe_SOURCE_DIR:STATIC=D:/代码/学习/c
+
+//Value Computed by CMake
+nam_BINARY_DIR:STATIC=D:/代码/学习/c/build
+
+//Value Computed by CMake
+nam_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+nam_SOURCE_DIR:STATIC=D:/代码/学习/c
 
 
 ########################

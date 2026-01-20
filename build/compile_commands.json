@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/代码/学习/c/build",
+  "command": "D:\\mingw64\\bin\\g++.exe  @CMakeFiles/hello.dir/includes_CXX.rsp -g -o CMakeFiles\\hello.dir\\learn\\src\\hello.cpp.obj -c D:\\代码\\学习\\c\\learn\\src\\hello.cpp",
+  "file": "D:/代码/学习/c/learn/src/hello.cpp",
+  "output": "CMakeFiles/hello.dir/learn/src/hello.cpp.obj"
+}
+]
